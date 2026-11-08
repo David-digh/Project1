@@ -1,0 +1,22 @@
+# ---- Visual Studio 生成物 ----
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# ---- 我用来生成报告的辅助脚本 ----
+make_report.py
+make_report2.py
